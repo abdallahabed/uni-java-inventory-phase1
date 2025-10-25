@@ -1,5 +1,5 @@
 
-````markdown
+
 <p align="center">
   <img src="banner.png" alt="Project Banner" width="300"/>
 </p>
